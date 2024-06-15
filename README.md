@@ -1,2 +1,2 @@
 # Phonepe-Plus-Data-Visualization-Using-Stramlit
-Phonepe Plus Data Visualization Using Stramlit Application Project is used to analyse the phonepe data statewise, transaction amount, transaction count, registered users etc.
+Phonepe Plus Data Visualization Using Stramlit Application Project is used to analyse the phonepe data statewise, transaction amount, transaction count, registered users etc. Using Phonepe Plus application we can also analyse the top chart, top states of transaction amount, transaction count etc. Transaction type analyse and Brandwise analyse also implemented.
